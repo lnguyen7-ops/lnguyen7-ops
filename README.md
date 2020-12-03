@@ -12,7 +12,7 @@ I'm a data scientist and former chemist. I have a passion about problem-solving,
 * :twisted_rightwards_arrows: Tensorflow
 * :cloud: AWS, Hadoop
 
-- 🔭 I’m currently working on this <a href="https://github.com/lnguyen7-ops/Improve_neighborhood_safety_by_predictive_patrolling" target="_blank">project.</a>
+- 🔭 I’m currently working on this ![project.](https://github.com/lnguyen7-ops/Improve_neighborhood_safety_by_predictive_patrolling)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lnguyen7-ops)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lnguyen7-nd/)  
 
