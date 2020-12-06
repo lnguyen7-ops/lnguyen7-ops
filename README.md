@@ -3,7 +3,9 @@
 # Luan Nguyen
 ### Data Scientist | former Chemist
 
-I'm a data scientist and former chemist. I have a passion about problem-solving, regardless of the topic is chemistry related or not. I really enjoy learning new data science concepts and programming concepts during my free time. My hobby is solving coding puzzles, working on personal data projects and watching American football (<span style="color:red;"><b>Go Chiefs !</b></span>).
+I'm a data scientist and former chemist. I have a passion about problem-solving, regardless of the topic is chemistry related or not. I really enjoy learning new data science concepts and programming concepts during my free time. My hobby is solving coding puzzles, working on personal data projects and watching :football: American football :football:. 
+
+<span style="color:red;"><b>Go Chiefs !</b></span> <img src="https://1000logos.net/wp-content/uploads/2016/11/Kansas-city-chiefs-Logo.png" width="50">.
 
 ## Status
 - 🔭 I’m currently working on this [project.](https://github.com/lnguyen7-ops/Improve_neighborhood_safety_by_predictive_patrolling)
